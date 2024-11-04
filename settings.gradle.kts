@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Arm64.OlhoVivo.Camera"
+rootProject.name = "com.zanin.olhovivo"
 include(":app")
  

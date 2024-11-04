@@ -1,4 +1,4 @@
-package com.example.arm64olhovivocamera
+package com.zanin.olhovivo
 
 import org.junit.Test
 

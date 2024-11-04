@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.arm64olhovivocamera"
+    namespace = "com.zanin.olhovivo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.arm64olhovivocamera"
+        applicationId = "com.zanin.olhovivo"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
